@@ -1,0 +1,16 @@
+{
+  "name": "TaintedStarClient",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:TaintedStar/TaintedStarClient.git",
+  "author": "",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "electron": "^7.1.9",
+    "phaser": "^3.21.0"
+  }
+}
