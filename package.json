@@ -1,5 +1,5 @@
 {
-  "name": "TaintedStarClient",
+  "name": "taintedstarclient",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:TaintedStar/TaintedStarClient.git",
